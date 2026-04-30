@@ -1,3 +1,4 @@
+![n8n banner](n8n_wallpaper.webp)
 # 🌌 AI-Powered n8n Banner Generator
 
 A lightweight, efficient Python script that leverages the **Stability AI REST API** to generate high-quality, futuristic visualizations of workflow automation systems (inspired by n8n). 
